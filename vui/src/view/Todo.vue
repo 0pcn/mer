@@ -231,6 +231,7 @@ export default {
 
 .addListTitle {
   text-align: right;
+  color: red;
 }
 
 .hTitle {
