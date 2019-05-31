@@ -6,7 +6,7 @@
   </div>
 </template>
 <script>
-import Quote from '/Users/penny/vuerouter/vui/src/components/Quote/Quote.vue'
+import Quote from './Quote.vue'
 
 export default {
   name: 'QuoteGrid',
