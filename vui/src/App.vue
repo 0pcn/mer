@@ -1,11 +1,7 @@
 <template>
     <el-container>
       <el-header >
-        <el-row type="flex" class="row-bg" justify="center">
-          <el-col :md="20" >
-            <appHeader ></appHeader>
-          </el-col>
-        </el-row>
+        <app-header ></app-header>
       </el-header>
       <el-main>
             <router-view></router-view>
